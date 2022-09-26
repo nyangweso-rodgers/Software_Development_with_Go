@@ -6,9 +6,12 @@
 - [Features of Go](#Features-Of-Go)
 - [References]()
     - [Go - Official Documentation](https://go.dev/)
+    - [Go at Google](https://go.dev/talks/2012/splash.article#TOC_1)
 
 # Overview of Go
-__Go__ is a programming language that is stupidly simple & opinionated. 
+* __Go__ is a programming language that is stupidly simple & opinionated.  It is fully __compiled__ like C and therefore efficient. Its main superiority over other system languages is, that it caters for loading multiple CPU’s efficiently and transparently. 
+
+* __Go__ is designed specifically as a systems programming language for large, distributed systems and highly-scalable network servers. In that vein, it replaces C++ and Java in Google (company)'s software stack.
 
 # Advantages Of Go
 * clarity & simplicity is really what make it easy for people to get started with Go.
